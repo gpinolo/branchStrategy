@@ -1,4 +1,4 @@
 # branchStrategy
 Branch strategy
 
-Govanni
+Giovanni
